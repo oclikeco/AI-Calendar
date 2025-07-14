@@ -1,2 +1,2 @@
-# AI-Calendar
-A Calendar powered by LLM &amp; VLM, which helps you manage your schedules
+# AI Todo-List
+A Todo-List powered by LLM & VLM, which helps you manage your schedules
